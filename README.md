@@ -5,7 +5,9 @@ We introduce a semi-supervised learning framework capable of interpreting previo
 
 [NOCaL: Calibration-Free Semi-Supervised Learning of Odometry and Camera Intrinsics](https://arxiv.org/abs/2210.07435)
 
-<img src='https://roboticimaging.org/Projects/NOCaL/Pics/nvs_inputs.gif' width='800'>
+<div align="center">
+<img src="https://ryanbgriffiths.github.io/images/publications/NOCaL/nvs.gif">
+ </div>
 
 Authors: [Ryan Griffiths](https://ryanbgriffiths.github.io), [Jack Naylor](https://nackjaylor.github.io), [Donald G. Dansereau](https://roboticimaging.org/)
 
