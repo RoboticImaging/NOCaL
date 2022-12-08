@@ -1,0 +1,6 @@
+/data
+/tensorboard
+*.png
+*.pt
+*.npy
+events.out.*

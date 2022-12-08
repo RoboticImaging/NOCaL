@@ -1,0 +1,23 @@
+# Config file for running NOCaL on the LearnLFOdo_Dataset
+data_path = 'LearnLFOdo_Dataset'
+dataset = 'LFOdo'           # Any other dataset here will use the other general dataloader
+train_scenes = []
+test_scenes = []
+batch_size = 4              # Batch size
+epochs = 1000               # Number of epochs to train for
+encoder_lr = 0.00005        # Encoder learning rate
+hyper_lr = 0.00007          # Hyper learning rate
+distortion_lr = 0.001       # Distortion model learning rate
+intrinsics_lr = 0.5         # Intrinsics learning rate
+latent_size = 128
+hidden_units = 256
+parameterization = 'plucker'
+enc_freq = 8                # Number of frequencies to positionally encode
+im_size = [80, 60]
+focal_length = 250
+label_ratio = 0.2           # Percentage of data that is labelled
+steps = 8                   # Maximum gap between frames which are used
+distortion_start = 50       # When to start learn distorion model
+focal_start = 25            # Whg
+save_folder = 'LFOdo_logs/'
+checkpoint_period = 2     # Checkpoint every certain number of epochs

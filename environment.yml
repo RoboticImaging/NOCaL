@@ -1,0 +1,22 @@
+# Run to create the conda environment
+name: nocal
+channels:
+  - pytorch
+dependencies:
+  - cudatoolkit=11.0.221
+  - python=3.7
+  - pytorch=1.7.1
+  - torchvision=0.8.2
+  - numpy=1.20.1
+  - pip
+  - opencv=3.4.2
+  - pandas=1.2.4
+  - scipy=1.6.2
+  - configargparse
+  - scikit-image=0.18.1
+  - tensorboardx=2.2
+  - matplotlib=3.3.4
+  - pip:
+    - natsort==7.1.1
+    - ordered-set==4.0.2
+    - tensorboard
