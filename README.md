@@ -11,7 +11,7 @@ We introduce a semi-supervised learning framework capable of interpreting previo
 
 Authors: [Ryan Griffiths](https://ryanbgriffiths.github.io), [Jack Naylor](https://nackjaylor.github.io), [Donald G. Dansereau](https://roboticimaging.org/)
 
-Project Page: [roboticimaging.org/Projects/NOCaL/](https://roboticimaging.org/Projects/LearnLFOdo/) (gallery, results etc.)
+Project Page: [roboticimaging.org/Projects/NOCaL/](https://roboticimaging.org/Projects/NOCaL/) (gallery, results etc.)
 
 If you have any questions or issues feel free to reach out.
 
