@@ -84,9 +84,9 @@ See _LFOdo_config.txt_ for configuration options.
 
 If you find our work useful, please cite the below paper:  
 
-    @article{griffiths2022nocal,  
-      title = {{NOCaL}: Calibration-Free Semi-Supervised Learning of Odometry and Camera Intrinsics},  
-      author = {Ryan Griffiths and Jack Naylor and Donald G. Dansereau},  
-      journal = {arXiv preprint arXiv:2210.07435},  
-      year = {2022}  
+    @article{griffiths2023nocal,
+      title = {{NOCaL}: Calibration-Free Semi-Supervised Learning of Odometry and Camera Intrinsics},
+      author = {Ryan Griffiths and Jack Naylor and Donald G. Dansereau},
+      journal = {Robotics and Automation ({ICRA})},
+      year = {2023}
     }
